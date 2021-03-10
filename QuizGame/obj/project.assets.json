@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Learn\\Thach-sensei\\QuizGame\\QuizGame\\QuizGame.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\QuizGame\\QuizGame\\QuizGame.csproj",
       "projectName": "QuizGame",
-      "projectPath": "D:\\Code\\Learn\\Thach-sensei\\QuizGame\\QuizGame\\QuizGame.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\QuizGame\\QuizGame\\QuizGame.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Learn\\Thach-sensei\\QuizGame\\QuizGame\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\QuizGame\\QuizGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -48,7 +48,7 @@ namespace QuizGame
             else
             {
                 lbresult.Text = "Toltal: " + score.ToString() + "/" + totalQuestion_present.ToString();
-                MessageBox.Show("Sai!");
+                MessageBox.Show("Ngu! Vay cung sai");
 
             }
             if (questionNumber == totalQuestions)
@@ -168,5 +168,9 @@ namespace QuizGame
 
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
