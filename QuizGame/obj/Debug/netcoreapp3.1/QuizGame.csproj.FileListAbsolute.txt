@@ -1,0 +1,16 @@
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\bin\Debug\netcoreapp3.1\QuizGame.exe
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\bin\Debug\netcoreapp3.1\QuizGame.deps.json
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\bin\Debug\netcoreapp3.1\QuizGame.runtimeconfig.json
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\bin\Debug\netcoreapp3.1\QuizGame.runtimeconfig.dev.json
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\bin\Debug\netcoreapp3.1\QuizGame.dll
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\bin\Debug\netcoreapp3.1\QuizGame.pdb
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\obj\Debug\netcoreapp3.1\QuizGame.csprojAssemblyReference.cache
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\obj\Debug\netcoreapp3.1\QuizGame.Form1.resources
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\obj\Debug\netcoreapp3.1\QuizGame.Properties.Resources.resources
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\obj\Debug\netcoreapp3.1\QuizGame.csproj.GenerateResource.cache
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\obj\Debug\netcoreapp3.1\QuizGame.AssemblyInfoInputs.cache
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\obj\Debug\netcoreapp3.1\QuizGame.AssemblyInfo.cs
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\obj\Debug\netcoreapp3.1\QuizGame.csproj.CoreCompileInputs.cache
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\obj\Debug\netcoreapp3.1\QuizGame.dll
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\obj\Debug\netcoreapp3.1\QuizGame.pdb
+D:\Code\Learn\Thach-sensei\QuizGame\QuizGame\obj\Debug\netcoreapp3.1\QuizGame.genruntimeconfig.cache
